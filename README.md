@@ -1,2 +1,4 @@
-# ranls-src
-Public Nuking bot
+# RANLS-Nuker
+RANLS Nuker Bot
+
+teste

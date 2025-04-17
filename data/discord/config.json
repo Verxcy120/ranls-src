@@ -1,0 +1,30 @@
+{
+    "main" : {
+        "token" : "MTM1ODU2NTI4MDIyMTEwMjI3MA.GOBZIv.Yt_BVcGteTCphQlLMU6okcGtiZLJLEL1X8W3gg",
+        "id" : "1358565280221102270"
+    },
+    "logging" : {
+        "roleupdates": "1356389363042353395",
+        "guildcreate" : "1356389363042353395",
+        "guildremove" : "1356389363042353395",
+        "commandused": "1356389363042353395",
+        "arasralt": "1356389363042353395"
+        
+    },
+    "status": [
+        "discord.gg/antirealms",
+        "RANLS on TOP",
+        "Epic Bot"
+      ],
+    "link": "discord.gg/antirealms",
+    "webhooks": {
+        "arasralt": "Weebhook"
+    },
+    "embeds": {
+        "color": "#0066ff",
+        "footer": "Your Text |your link",
+        "footerurl": "Picture"
+    },
+    "targetServerId": "Server Id",
+    "targetRoleId": "Role ID"
+}
